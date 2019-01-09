@@ -1,40 +1,22 @@
 {
-  "employees": [
+  "students": [
     {
-      "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
+      "id": "5481",
+      "name": "Md Jasim",
+      "email": "jasim.cuh@gmail.com",
+      "class": "MCA",
+      "enroll": "2014",
+      "city": "Hyderabad",
+      "country": "India"
     },
     {
-      "id": 2,
-      "first_name": "Ray",
-      "last_name": "Palmer",
-      "email": "steve@gm.com"
-    },
-    {
-      "id": 3,
-      "first_name": "Gream",
-      "last_name": "Smith",
-      "email": "ann@yahoo.com"
-    },
-    {
-      "id": 4,
-      "first_name": "Tushar",
-      "last_name": "Dhore",
-      "email": "tushar@tusharworld.com"
-    },
-    {
-      "first_name": "Alex",
-      "last_name": "Parker",
-      "email": "alex@gmail.com",
-      "id": 7
-    },
-    {
-      "first_name": "Oliver",
-      "last_name": "Queen",
-      "email": "olly@gmail.com",
-      "id": 8
+      "id": "2",
+      "name": "sandeep",
+      "email": "klnhjkl",
+      "class": "jnlkj",
+      "enroll": "jklj",
+      "city": "jlk;j",
+      "country": "jl;j"
     }
   ]
 }
